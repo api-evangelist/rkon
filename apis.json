@@ -1,0 +1,69 @@
+{
+    "name": "RKON",
+    "description": "RKON is a leading IT consulting firm offering Infrastructure-as-a-Service and managed cyber security services to the middle market. We have a specialized practice delivering life cycle execution and management for private equity carve outs, performance...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8816-rkon.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "isp"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rkon\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RKON",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/8816-rkon.jpg",
+            "humanURL": "http:\/\/www.rkon.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rkon-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rkon-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rkon-technologies\/timeline"
+        },
+        {
+            "type": "Email",
+            "url": "resume@rkon.com"
+        },
+        {
+            "type": "Email",
+            "url": "20marketing@rkon.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@rkon.com"
+        },
+        {
+            "type": "Email",
+            "url": "RKON_resume@RKON.com"
+        },
+        {
+            "type": "Email",
+            "url": "nlindokken@rkon.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RKON"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.rkon.com\/"
+        }
+    ]
+}
